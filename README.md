@@ -22,5 +22,5 @@ pip install -r requirements.txt
 ## Usage
 python reconx.py
 
-!!! You should unzip the password.zip file 
+!!! You should download the passwords file from this link : https://github.com/zacheller/rockyou and change the name of the file to passwords.txt when u use the Hash Crack feature .
 
