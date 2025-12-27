@@ -20,7 +20,7 @@ Recon-X is for recon phase created using Python .
 pip install -r requirements.txt
 
 ## Usage
-!!! You should unzip the password.zip file 
 python reconx.py
 
+!!! You should unzip the password.zip file 
 
