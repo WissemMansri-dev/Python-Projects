@@ -1,6 +1,5 @@
 # RECON-X
-Recon-X is for recon phase created using Python 
-موجّه للـ CTF Players و الـ Ethical Hackers.
+Recon-X is for recon phase created using Python .
 
 ## Features
 - Port Scanner 
