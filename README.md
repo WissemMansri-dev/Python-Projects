@@ -14,7 +14,7 @@ Recon-X is for recon phase created using Python .
 - Requests
 - Threading
 - Hashlib
-- 
+ 
 ## Installation
 
 pip install -r requirements.txt
