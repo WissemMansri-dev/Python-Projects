@@ -17,9 +17,11 @@ Recon-X is for recon phase created using Python
 - Hashlib
 - 
 ## Installation
-```bash
+
 pip install -r requirements.txt
 
 ## Usage
-```bash
+
 python reconx.py
+
+
